@@ -25,6 +25,11 @@
             android:name=".PracticalTest01Var7SecundaryActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
+
+        <service
+            android:name=".PracticalTest01Var07Service"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>
